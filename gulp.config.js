@@ -51,7 +51,7 @@ module.exports = {
 	//		App Sass
 	// ==================================================
 	sassStyle: [
-		'resources/assets/sass/*.scss',
+		'resources/assets/sass/app.scss',
 		'resources/assets/sass/**/*.scss',
 		'resources/assets/sass/**/**/*.scss',
 		'resources/assets/angular/directives/**/*.scss',
